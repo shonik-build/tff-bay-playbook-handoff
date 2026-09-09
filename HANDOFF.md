@@ -22,7 +22,7 @@ Feedback from two conversations (Balu Murali, Ajay Yadav) is already folded into
 
 ### 1.1 Homepage (`thefounderfolks.com`)
 
-![Homepage hero](screenshots-annotated/tff-home-1-hero.png)
+![Homepage hero](screenshots/annotated/tff-home-1-hero.png)
 
 **① Circular logo lockup — rotate-to-read.** The "· EXCLUSIVE · INVITE ONLY ·" text is set on a circle. On desktop it reads OK once you tilt your head; on mobile (see 1.5) it becomes visual noise because no other content anchors the eye. Consider a straight-set tagline as fallback, or drop the rotation on ≤768px.
 
@@ -32,36 +32,36 @@ Feedback from two conversations (Balu Murali, Ajay Yadav) is already folded into
 
 ### 1.2 Below the fold — mostly empty bands
 
-![What you get](screenshots-annotated/tff-home-4-whatyouget.png)
-![Manifesto](screenshots-annotated/tff-home-3-manifesto.png)
+![What you get](screenshots/annotated/tff-home-4-whatyouget.png)
+![Manifesto](screenshots/annotated/tff-home-3-manifesto.png)
 
 **④ / ⑤** The "What you get" and manifesto sections are large blue fields with 2–3 short lines each. It reads under-designed compared to the density on the hero. Either compress the vertical space or fill it (imagery, a running list of guides, testimonials, a signup form). Right now these sections train visitors to scroll faster and skip content.
 
 ### 1.3 Menu overlay
 
-![Menu open](screenshots-annotated/tff-home-menu-open.png)
+![Menu open](screenshots/annotated/tff-home-menu-open.png)
 
 **⑥** The overlay has no visible close (X) affordance. Users have to guess: click outside, hit Escape, or click MENU again. Add an X in the top-right of the overlay — same location as the MENU button so the mental model is "the button toggles."
 
 ### 1.4 /guides, /fundraising-decks, /contact
 
-![Guides](screenshots-annotated/tff-guides.png)
+![Guides](screenshots/annotated/tff-guides.png)
 
 **⑧** `/guides` currently lists only the Bay Playbook. That's fine for launch, but the empty space below the single card makes the site feel unfinished. Options: a "coming soon" placeholder for the next guide, or reduce section height until there's ≥2 cards.
 
-![Decks](screenshots-annotated/tff-decks.png)
+![Decks](screenshots/annotated/tff-decks.png)
 
 **⑨ "FILTER BY STAGE" label with no visible filter.** Either the control failed to render or the label is a leftover — remove the label or ship the control.
 
 **⑩ Grouped rows without group headers.** The decks are grouped (pre-seed / seed / A) but there's no visual separator or header. A user reading top-to-bottom can't tell where one stage ends and the next begins. Add row-group headers ("Pre-seed", "Seed", "Series A") between the rows.
 
-![Contact](screenshots-annotated/tff-contact.png)
+![Contact](screenshots/annotated/tff-contact.png)
 
 **⑪ Contact form has no visible submit button.** Confirmed via DOM — no `<button type="submit">` in the form. The form is currently unusable. This is the highest-severity bug on the main site.
 
 ### 1.5 Homepage — mobile (390px)
 
-![Home mobile](screenshots-annotated/tff-home-mobile.png)
+![Home mobile](screenshots/annotated/tff-home-mobile.png)
 
 **⑦** On mobile, the hero collapses to just the rotating logo blob. The hero title ("FOR THE BUILDERS…") is missing entirely — I couldn't find it in the mobile viewport. Whatever CSS handles the hero-text position needs a mobile breakpoint.
 
@@ -71,8 +71,8 @@ Feedback from two conversations (Balu Murali, Ajay Yadav) is already folded into
 
 ### 2.1 Landing + TOC
 
-![BP hero](screenshots-annotated/tff-bp-1-hero.png)
-![BP TOC](screenshots-annotated/tff-bp-toc-full.png)
+![BP hero](screenshots/annotated/tff-bp-1-hero.png)
+![BP TOC](screenshots/annotated/tff-bp-toc-full.png)
 
 **⑫ / ⑬** Same rotating-badge issue as home. TOC below the fold is where the actual value lives — consider promoting a compact TOC to above-the-fold.
 
@@ -82,13 +82,13 @@ Feedback from two conversations (Balu Murali, Ajay Yadav) is already folded into
 
 ### 2.2 Article pages
 
-![BP article top](screenshots-annotated/tff-bp-visas-top.png)
+![BP article top](screenshots/annotated/tff-bp-visas-top.png)
 
 **⑯ "TO TOP" back-link low contrast.** Light text on a light background — fails WCAG AA at the current colour pair. Bump contrast or move to a solid pill.
 
 ### 2.3 **CRITICAL — horizontal scroll on mobile (bay-playbook)**
 
-![BP mobile overflow](screenshots-annotated/tff-bp-mobile-overflow.png)
+![BP mobile overflow](screenshots/annotated/tff-bp-mobile-overflow.png)
 
 This is the "side scroll bar showing" issue. On a 390px mobile viewport, the bay-playbook document renders **557px wide** — 167px of horizontal overflow.
 
@@ -202,21 +202,17 @@ Everything else is polish — happy to walk through any of it live.
 ## Files in this handoff bundle
 
 ```
-tff-audit/
+tff-bay-playbook-handoff/
 ├── HANDOFF.md                          ← this doc
-├── screenshots-annotated/              ← paste-ready into Google Doc
-│   ├── tff-home-1-hero.png
-│   ├── tff-home-3-manifesto.png
-│   ├── tff-home-4-whatyouget.png
-│   ├── tff-home-menu-open.png
-│   ├── tff-home-mobile.png
-│   ├── tff-guides.png
-│   ├── tff-decks.png
-│   ├── tff-contact.png
-│   ├── tff-bp-1-hero.png
-│   ├── tff-bp-toc-full.png
-│   ├── tff-bp-visas-top.png
-│   ├── tff-bp-mobile.png
-│   └── tff-bp-mobile-overflow.png      ← the critical one
-└── screenshots-raw/                    ← originals if you want to re-annotate
+├── README.md
+├── design-system.md
+├── content/                            ← 28 plain-text content briefs (one per page)
+├── pages/                              ← 28 .dc.html files + runtime + landing
+├── sources/                            ← raw source materials
+└── screenshots/
+    ├── annotated/                      ← paste-ready into Google Doc (13 shots)
+    │   ├── tff-bp-mobile-overflow.png  ← the critical one
+    │   ├── tff-contact.png             ← the unusable form
+    │   └── … (11 more)
+    └── raw/                            ← unannotated originals (21 shots, including full-page captures)
 ```
