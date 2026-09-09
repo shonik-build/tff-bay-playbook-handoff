@@ -1,0 +1,187 @@
+4. Visas for Indian Founders
+Stage: Before you fly · Type: Guide · Draft v1
+
+What this page is for: Picking the right visa path before you book flights. Most Indian founders land on
+one of four: a B-1 to scout, an O-1A to build, an L-1A if you already run a real company in India, or an
+H-1B if you already hold one.
+
+The four paths in plain words
+ Path          What it permits                           Best for                Rough timeline
+
+    B-1            Meetings, negotiating contracts,          A 2 to 6 week         Interview wait is the
+  business        attending conferences, fundraising      scouting trip before    bottleneck (see below)
+   visitor       conversations. No productive work,           you commit
+                     no salary from a US entity.
+
+    O-1A        Full-time work for the petitioning US     The default founder     About 2 months with
+                company, usually your own Delaware           visa in 2026         premium processing
+                              C-corp
+
+    L-1A        Work as a manager or executive for a        Founders who          About 1 month with
+                  US entity related to your Indian       already run a staffed    premium processing.
+                             company                       company in India       New office approvals
+                                                                                      run 1 year
+
+    H-1B          Work for the petitioning employer,     Founders already on      Weeks with premium
+                  including a company you control         H-1B, or majority       processing. No new
+                                                           owners of a US         lottery for a transfer
+                                                               entity
+
+Jargon: A petition is the application a US company files with USCIS asking to employ you. You cannot
+file for yourself directly, but a company you own can petition for you.
+
+B-1: scout, don't work
+
+The B-1 lets you take meetings, negotiate, and talk to investors. It does not let you write production code
+for your US entity, sign as a US employee, or draw US salary. Border officers have tightened scrutiny of
+B-1 entries since 2025, so carry a return ticket, a meeting schedule, and proof of Indian ties.
+
+The real problem is the interview queue. First-time B1/B2 interview waits at Indian consulates ran
+roughly 100 to 400 days across 2025 and 2026 depending on the city, with Chennai and Hyderabad often
+shorter than Mumbai and Delhi. If you already hold a valid B1/B2 from a past trip, you have dodged this
+entirely. Check current waits on the State Department's per-city tool before planning, because these
+numbers move monthly.
+
+O-1A: the founder default
+
+The O-1A is for "extraordinary ability" in business or STEM. That sounds intimidating. In practice it is an
+evidence-assembly exercise. You must hit 3 of 8 USCIS criteria, codified at 8 CFR 214.2(o)(3)(iii),
+unless you hold one major internationally recognised award, which almost nobody does:
+
+1. Awards · 2. Selective memberships · 3. Press about you · 4. Judging others' work · 5. Original
+contributions of major significance · 6. Scholarly articles · 7. Critical role at distinguished organizations ·
+8. High remuneration.
+
+Funded founders most commonly clear: critical role (founder or CTO of a VC-backed company), high
+remuneration (Indian salary benchmarked against Indian norms counts), judging (hackathon or
+accelerator judging, peer review), press (named coverage in real publications), and original
+contributions (patents, widely adopted product). VC funding from recognised investors helps under
+awards and critical roles. Start collecting evidence months before you engage a lawyer.
+
+One requirement nobody plans for: every O-1 petition needs a written advisory opinion from a peer
+group, labor organization or expert in your field, under 8 CFR 214.2(o)(5). It is waived only where no
+appropriate body exists. Turnaround runs from a couple of days to a few weeks, so start it early rather
+than at filing.
+
+Numbers as of mid-2026 (verify current):
+
+    ●​ Approval rate roughly 94% recently, RFE rate roughly 18.7%. Jargon: An RFE (Request for
+       Evidence) is USCIS asking for more proof. It adds 2 to 4 months and usually still ends in
+       approval.
+    ●​ Government fees: the I-129 fee for O classification is $1,055, or $530 if your company has 25 or
+       fewer full-time-equivalent employees, plus an asylum program fee of $600, or $300 for those
+       same small employers. A startup sponsoring its own founder therefore pays about $830, not the
+       H-1B or L-1 numbers often quoted.
+    ●​ Attorney fees run $6,000 to $15,000. Premium processing is $2,965, effective 1 March 2026, for
+       a 15 business day decision. All in, most founder cases land between $10,000 and $19,000.
+    ●​ Timeline: about 2 months from engagement to approval when your evidence is already
+       collected, roughly a month of petition prep plus 15 business days with premium processing. Prep
+       is the variable, not USCIS. If you are still chasing press, letters or judging invites, add however
+       long that takes. Consulate stamping in India is a separate queue on top.
+    ●​ Duration: up to 3 years initially, then extensions in increments of up to 1 year, with no overall
+       cap. Spouses get O-3, which carries no work authorization, so plan for it.
+
+Why O-1A beats waiting on H-1B: no lottery, no annual cap, and critically no per-country cap, the
+thing that puts India-born applicants in decade-long employment green card queues.
+L-1A: if you already run a company in India
+
+If your Indian company is real and staffed, you can transfer yourself into a US entity instead of proving
+you are extraordinary. The test is structural rather than reputational. You need a qualifying relationship
+between the Indian company and the US one, meaning parent, subsidiary, affiliate or branch under
+common ownership and control, plus one continuous year of managerial or executive work at the Indian
+entity in the three years before filing. Your evidence is payroll, org charts and contracts rather than press
+clippings.
+
+The catch is the new office rule. If the US entity is newly formed, USCIS approves you for one year, not
+three, and you spend that year proving you built something real. Officers also expect secured physical
+premises, usually a signed commercial lease with room for the headcount in your business plan. Virtual
+offices and coworking desks draw heavy scrutiny. At extension you are judged on execution, not on the
+plan you filed.
+
+Timelines are shorter than the O-1A, about a month with premium processing, because the evidence
+already exists in your company records. You are producing payroll, incorporation papers, org charts and a
+lease rather than building a case for your own significance. Costs sit close to the O-1A. The I-129 fee for
+L classification is $1,385, or $695 for small employers, plus the same asylum program fee and a $500
+fraud prevention fee on new L-1 petitions. Premium processing is the same $2,965. Approval rates run a
+little lower and RFE rates higher than the O-1A, because new office cases get read hard. Price both routes
+before you assume the O-1A is your only option.
+
+H-1B: the founder rule changed in 2025
+
+If you already hold an H-1B, your Delaware C-corp can file a transfer with no new lottery. The bigger
+change is for owners. Since 17 January 2025, USCIS has removed the old employer-employee control test
+and expressly allows a founder with a controlling interest to be sponsored by their own company,
+provided you spend the majority of your time on specialty occupation work rather than running the
+business. The trade-off is validity: initial approval and first extension are capped at 18 months each,
+against three years for a standard H-1B. You no longer need outside directors to make this work, which
+was true before 2025 and is repeated in a lot of stale advice.
+
+Think green card from day one
+
+The O-1A is temporary. The long-term play is EB-1A, the green card cousin of the O-1A with a higher
+evidence bar. EB-1 India is badly backlogged: the September 2026 Final Action Date is 15 October 2022,
+and the State Department has warned EB-1 India may go unavailable entirely before the fiscal year ends
+on 30 September 2026, with new numbers from 1 October. Realistic I-140 to green card timelines for
+India run roughly 4 to 6 years. File your I-140 as early as your evidence supports it. Filing locks your
+priority date, your place in the queue, and every month you delay is a month added at the back end.
+
+If you came in on L-1A, your green card cousin is EB-1C, not EB-1A. It asks for a genuine multinational
+manager or executive role instead of extraordinary ability, which is an easier story for some founders to
+tell, though the US entity must have been doing business for at least a year before you can file. It sits in
+the same backlogged EB-1 queue, so the filing-early logic applies identically.
+
+Do this now
+
+    ●​ Check your existing B1/B2. If valid, your scouting trip needs zero new paperwork
+    ●​ Start an O-1 evidence folder today: press links, judging invites, funding docs, salary proof,
+       patents
+    ●​ Get 2 to 3 quotes from founder-focused immigration lawyers ($6,000 to $15,000 range, and
+       ask which 3 criteria they would argue)
+    ●​ Check current India consulate wait times on the State Department site before booking anything
+    ●​ Ask your lawyer about EB-1A timing in the same engagement, because the priority date
+       compounds
+    ●​ If you already run an Indian company with staff, price the L-1A alongside the O-1A. The
+       entity structure has to be right before either route works, so ask before you incorporate, not after
+
+Nobody tells you
+
+    ●​ Your own startup can sponsor your O-1. The "employer" can be a US entity you majority-own,
+       though many lawyers add board oversight to strengthen the petition. This is why the Delaware
+       entity (article 5) usually comes before the visa.
+    ●​ Judging is the cheapest criterion to build. Accepting hackathon judge and pitch competition jury
+       invitations over 3 to 6 months can manufacture a whole criterion from scratch.
+    ●​ The 94% approval rate is survivorship-shaped. Lawyers filter out weak cases before filing, so if a
+       good lawyer hesitates on your case, that is signal, not gatekeeping.
+    ●​ On a new office L-1A, the one year clock starts when you land, not when you file. Founders who
+       spend the first quarter on setup instead of hiring reach the extension with nothing to show, and the
+       extension is judged on what you actually built.
+
+Sources & further reading
+
+    ●​ USCIS: O-1 Visa, Individuals with Extraordinary Ability or Achievement, primary source for
+       criteria and process.
+    ●​ USCIS Policy Manual, Volume 2, Part M, Chapter 4, how officers actually evaluate O-1A
+       evidence, including the STEM and entrepreneur guidance.
+    ●​ USCIS: B-1 Temporary Business Visitor, what the B-1 does and does not permit, plus the period
+       of stay rules.
+    ●​ CBP: B-1 Permissible Activities, updated January 2026, the border officer's own list, written as a
+       question and answer sheet.
+    ●​ USCIS: L-1A Intracompany Transferee Executive or Manager, the one year abroad rule and new
+       office limits.
+    ●​ USCIS fee schedule at 8 CFR 106.2 and the January 2026 premium processing rule, for current
+       filing costs.
+    ●​ State Department Visa Bulletin, September 2026, the EB-1 India final action date and the end of
+       year availability warning.
+    ●​ OpenSphere: the complete O-1A guide, each of the eight criteria with examples of evidence that
+       satisfies it.
+    ●​ OpenSphere: how many expert letters do I need and who can write them, the letters question in
+       full.
+    ●​ OpenSphere: immigration resources, guides on the India backlog, priority date strategy, and what
+       happens to your visa if the startup fails.
+    ●​ OpenSphere: success stories, every approved case they publish, with the evidence and the strategy
+       behind each one. Includes O-1A approvals via the agent route for India-based beneficiaries and an
+       L-1A extension.
+    ●​ OpenSphere: free visa evaluation, scores your profile against all eight criteria and shows the gaps.
+
+This is general information, not legal or tax advice. Verify with a professional before acting.
+

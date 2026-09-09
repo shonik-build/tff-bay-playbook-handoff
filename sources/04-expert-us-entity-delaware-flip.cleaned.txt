@@ -1,0 +1,167 @@
+5. US Entity & the Delaware Flip
+Stage: Before you fly · Type: Guide · Draft v1 — July 2026
+What this page is for: To decide whether you need a US entity, which structure to pick, and how the Indian-side rules (FEMA/ODI) constrain you. Most founders get this wrong and unwinding it can cost lakhs and get it very wrong, and unwinding it can cost crores.
+Your three options
+Structure
+What it is
+When it makes sense
+Fresh Delaware C-corp
+New US company, no Indian entity (or Indian entity stays separate/dormant)
+You haven’t incorporated in India yet, or Indian entity has no meaningful assets/revenue
+Delaware flip
+New Delaware parent; your existing Indian company becomes its wholly-owned subsidiary via a share swap
+Existing Indian company with IP/revenue/investors, and US VCs or YC require a US parent
+Indian HQ + US subsidiary
+Indian parent opens a US subsidiary for sales/ops
+You’re selling to US customers but raising from Indian investors, or plan an India IPO
+The decision rule: The decision rule is simple: if your primary goal is to raise capital from US venture capital firms, you will likely need a Delaware parent company, as most US funds (including YC) prefer not to invest in an Indian parent entity. However, if your goal is simply to sell to US customers, incorporating in Delaware is not necessary. An Indian company, or an Indian company with a US subsidiary, can invoice and serve US customers without issue. In short: structure your company for fundraising, not for customers.
+Jargon: A Delaware flip means founders and existing shareholders swap their Indian-company shares for shares in a new Delaware C-corp, making the Indian company a subsidiary.
+The Indian-side rules: ODI 2022 and round-tripping
+The Overseas Investment (OI) Rules, 2022 (issued August 2022) govern Indians acquiring foreign shares. Two things matter for a flip:
+	•	Round-tripping is now permitted for bona fide business — the old blanket ban on structures where a foreign entity owns an Indian one (money “rounding” back to India) is gone, but only up to two layers of subsidiaries and only where the US parent has genuine substance: real US customers, US operations, a documented commercial rationale. A shell Delaware parent existing purely to hold Indian shares invites RBI trouble.
+	•	Your share swap uses your LRS headroom. The Liberalised Remittance Scheme caps each resident Indian at $250,000 per financial year for overseas investment. Acquiring US parent shares (by swap or purchase) is an ODI transaction under these rules, valued by a SEBI-registered merchant banker. Budget the valuation report at ₹1–2 lakh and FEMA/RBI filings (Form FC, annual APR) at ₹1–3 lakh in professional fees.
+Jargon: FEMA is India’s Foreign Exchange Management Act — the law behind all of this. ODI is Overseas Direct Investment — an Indian resident buying into a foreign company.
+Timeline and cost reality
+Item
+Cost
+Time
+Delaware incorporation + EIN + registered agent
+$500–2,000
+1–2 weeks
+Legal structuring of the flip (US + India counsel)
+$8,000–25,000 (complex/late-stage flips run far higher)
+—
+Merchant banker valuation
+₹1–2 lakh
+2–4 weeks
+FEMA/ODI filings and CA fees
+₹1–3 lakh
+ongoing
+Full flip, end to end
+
+3–6 months
+A fresh Delaware inc, by contrast, is a week and under $1,000. This is the strongest argument for incorporating in the US first if you know you’ll raise there — flipping later is 10–50x the cost of starting right.
+Tooling (2026)
+	•	Stripe Atlas ($500 one-time, ~$100/yr agent after year one): fastest self-serve path — C-corp, EIN, bank intro in days.
+	•	Clerky (~$819 lifetime package): the VC-lawyer favorite; cleanest post-incorporation paperwork for fundraising.
+	•	Firstbase (~$399): back-office add-ons (bookkeeping, payroll) as you grow.
+	•	Inkle: India-focused — handles the cross-border tax/compliance layer (US filings + Indian subsidiary compliance) and partners with Indian accelerators.
+None of these do the flip itself — the share swap and FEMA side need real lawyers and a CA on the Indian end.
+The warning label: reverse flips are brutal
+In 2024–25, Meesho, Groww and Razorpay collectively paid $600M+ in US taxes to un-flip and move HQ back to India for domestic IPOs (Meesho ~$288M; Groww ~$160M). If your realistic exit is an India listing, think hard before flipping at all. The flip is close to a one-way door once value builds up in the Delaware parent.
+Do this now
+	•	☐ Answer one question honestly: are US VCs going to lead your next round? If no, don’t flip yet
+	•	☐ If yes and you have no Indian entity: incorporate Delaware directly via Atlas or Clerky this week
+	•	☐ If flipping: engage a cross-border lawyer and an Indian CA together — quotes from both before signing either
+	•	☐ Check every founder’s LRS headroom for this FY (April–March) before structuring the swap
+	•	☐ Document US substance — US customer contracts, US hires, board minutes on why Delaware — file it away for RBI questions
+Nobody tells you
+	•	YC and most US funds will pay for or heavily subsidize the flip paperwork post-acceptance — don’t pre-emptively spend $25k flipping “to be ready” before a term sheet or acceptance exists.
+	•	The two-layer rule bites later: Delaware parent → Indian subsidiary is fine, but add a Singapore entity or a second step-down and you may need prior RBI approval. Keep the stack flat.
+	•	Transfer pricing between your Indian subsidiary (now a cost center doing R&D) and the US parent needs an arm’s-length agreement from day one — Indian tax officers audit flipped structures specifically for this. Cheap to set up, expensive to retrofit.
+
+ESOPs during US Entity & the Delaware Flip
+
+Your ESOP pool and the flip
+Options are not shares. This is the sentence that catches most founders out. When you do a share swap, shareholders swap; optionholders do not, because they hold a contract, not a security. Your ESOP does not travel with the flip automatically. It has to be moved, deliberately, by paperwork, and every unvested and vested option in the pool needs to be accounted for.
+
+Shares already issued to employees who exercised early are a separate problem. Those people are shareholders. They participate in the swap, which means each of them becomes an ODI filer with their own LRS headroom, their own valuation compliance and their own Form FC. Twelve employees who exercised is twelve extra sets of FEMA filings. Keep the pre-flip cap table as thin as you can.
+What actually happens to the existing Indian options
+Route
+What it is
+When it makes sense
+Cancel and regrant
+Indian options are cancelled and equivalent options issued from the new Delaware plan, carrying the original vesting commencement date
+The default for most flips. Cleanest going forward. Needs written consent from every single optionholder, including the ones who left
+Parent assumes the plan
+The Delaware parent formally adopts the Indian scheme; existing options become options over parent stock
+Larger pools where chasing fresh consents is impractical. More US legal work upfront, less chasing
+Mirror plan at the subsidiary
+The Indian scheme stays alive at the subsidiary while new grants come from the Delaware plan
+Usually a stopgap where some optionholders genuinely cannot be reached. You now run two plans, two valuations and two sets of accounting, indefinitely
+
+Whichever route you take, preserve the original vesting commencement date in writing. If the regrant paperwork resets the clock, an employee three years into a four-year vest starts again, and you will find out about it in the worst possible way.
+
+Jargon: Vesting commencement date is the date the vesting clock starts, usually the joining date, and it is often earlier than the grant date. It is the number that actually matters in a regrant.
+Size the pool while the cap table is open
+US funds expect a 10 to 15 percent unallocated pool post-money at seed. Indian norms sit closer to 5 to 10 percent. If you flip with an Indian-sized pool, your first US term sheet will demand a top-up, and that top-up will come entirely out of founder and existing investor dilution. Expand the pool as part of the flip, not after the term sheet arrives.
+The tax split, which nobody models in advance
+After the flip your Indian employees hold options over shares of a foreign company. That changes three things.
+
+Exercise is still taxed in India as a perquisite under section 17(2)(vi), on FMV minus exercise price, as salary income, with TDS withheld by the Indian subsidiary. The FMV is now that of an unlisted foreign share, which means a Category I merchant banker valuation on every exercise date.
+
+The DPIIT deferral quietly disappears. The section 192(1C) benefit that lets eligible startups defer ESOP TDS by up to 48 months depends on an 80-IAC certificate. A subsidiary of a foreign parent will not hold one. If your team was counting on that deferral, tell them before the flip, not after.
+
+Every employee holding parent shares must report them in Schedule FA of their income tax return as a foreign asset. Non-disclosure is a Black Money Act exposure with a ₹10 lakh penalty, and the employee carries it personally. Build the Schedule FA reminder into your annual HR calendar. On sale, gains on unlisted foreign shares are long-term after 24 months and taxed at 12.5 percent without indexation.
+
+One more, on the US side: ISOs are only meaningful to US taxpayers. Your India team gets NSOs regardless of what the plan document permits, and the ISO tax advantage your US counsel talks about is worth nothing to them.
+
+Jargon: NSO is a non-qualified stock option, the default option type. ISO is an incentive stock option, which carries a US tax benefit and only helps people who file US taxes.
+Tooling and cost (2026)
+Plan design sits with a specialist. Ongoing administration sits in software. They are different problems and it is worth not conflating them.
+
+Incentiv handles the plan and policy layer: scheme drafting, grant letters, board and shareholder resolutions, vesting design, Companies Act 2013 and FEMA compliance, and the valuation and dematerialisation work the swap depends on.
+
+Tabulate by Incentiv runs the Indian entity after the flip: cap table, ESOP ledger, vesting and cliff tracking, exercise workflow, employee self-service dashboards, statutory registers and Ind AS 102 expense reporting. The Delaware parent's stock plan and 409A typically sit with a US administrator, so plan for two systems and one reconciliation habit.
+
+Item
+Cost
+Time
+ESOP scheme design and documentation, seed to pre-Series A (Incentiv)
+₹50,000 to ₹75,000 + GST
+7 to 10 working days
+Plan redraft or post-flip restructuring, Series A and above (Incentiv)
+₹50,000 to ₹75,000 + GST
+2 to 3 weeks
+Rule 11UA / FMV valuation for grant and exercise (Incentiv)
+₹40,000 onwards
+1 to 2 weeks
+Dematerialisation, required before the swap (Incentiv)
+₹20,000 per ISIN
+6 to 8 weeks
+Tabulate: ESOP management
+₹800 per stakeholder per year
+onboarding in 24 to 48 hours
+Tabulate: ESOP and cap table management
+₹1000 per stakeholder per year
+
+Tabulate: ESOP, cap table, board and equity compliance management
+₹1,200 per stakeholder per year
+
+US 409A valuation for the Delaware parent
+$999 onwards
+1 to 3 weeks
+US stock plan drafting
+usually folded into the flip legal fee above
+
+
+Taking design, valuation and demat together gets you 10 to 15 percent off the combined package. Migration from an existing tool and onboarding are included in year one on Tabulate.
+
+Do this now
+☐ Pull a full optionholder list before you touch anything: name, grant date, vesting commencement date, vested and unvested counts, current employment status 
+☐ Track down the leavers with vested options now, while their email addresses still work, because their consent is on the critical path 
+☐ Check Rule 9B: if your Indian company is not a small company, its shares must be in demat form before any transfer, and the swap is a transfer. Start demat 8 weeks before you need it 
+☐ Size the pool to US norms as part of the flip, not after the term sheet 
+☐ Tell the team what changes for them personally: perquisite tax at exercise, Schedule FA reporting, and the loss of any DPIIT deferral
+
+Nobody tells you
+	•	Dematerialisation is on the critical path and takes 6 to 8 weeks. A private company that is not a small company cannot transfer shares in physical form, and a flip is a transfer of every share on the register. Founders discover this in week two of a three-month timeline and lose a month.
+	•	The ESOP expense does not vanish when the plan moves to Delaware. The Indian subsidiary still books the Ind AS 102 charge for its own employees, usually via a recharge from the parent, and that recharge is a related-party transaction that lands squarely in the transfer pricing agreement mentioned above. Get it into the same document rather than discovering it at the first post-flip audit.
+	•	Cashless exercise mechanics change after the flip. An Indian employee paying cash to acquire foreign shares runs into the OI Rules, where employee share schemes offered globally on a uniform basis sit under a specific carve-out in Schedule III. Whether a given exercise consumes that employee's LRS headroom depends on how the exercise is structured. Get your CA to confirm the mechanics before you promise anyone a cashless window.
+
+
+Sources & further reading
+	•	Treelife: Flip Structure for Indian Startups — the most India-specific step-by-step, incl. valuation and FEMA filings.
+	•	Enterslice: Round Tripping under ODI Rules 2022 — what changed in August 2022 and the two-layer rule.
+	•	EY India: Revised ODI Framework — professional-grade summary of OI Rules 2022.
+	•	IncorpX: Indian SaaS Flip Structure — tax implications and substance test explained for SaaS.
+	•	Rustic Flute: The Delaware Flip Dilemma — the reverse-flip tax numbers (Meesho, Groww, Razorpay).
+	•	Inc42: Is YC Causing Long-Term Damage to India’s Tech Economy? — the counter-argument to flipping.
+	•	INDmoney: What is LRS? — the $250k/FY limit and TCS rules.
+	•	Flowjam: Stripe Atlas vs Clerky 2026 — current tooling comparison and pricing.
+	•	MMJC: Rule 9B and the dematerialisation of private company securities — clearest explanation of the transfer restriction, which is the bit that stalls flips.
+	•	Income Tax Department: Schedule FA — who must file it and what counts as a foreign asset.
+	•	Incentiv — ESOP scheme design, grant documentation, Rule 11UA valuations and dematerialisation for Indian companies.
+This is general information, not legal/tax advice — verify with a professional before acting.
+
+

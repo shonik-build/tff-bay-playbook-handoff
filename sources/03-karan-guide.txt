@@ -1,0 +1,951 @@
+Money, Credit Cards & ITIN
+                                       TFF KP Guide
+
+Money, Credit & ITIN
+Banking and setting up finance in US
+Healthcare & Insurance
+The Desi Directory
+Where to Host events
+Sending Money Home & NRI Banking
+Wellness & Isolation — done properly
+Money Management, Credit Cards & ITIN
+​
+What this section is for: The main guide gives you the fast path to get you financially
+functional. This document is the layer underneath: every card worth considering and why, every
+ITIN scenario (not just the spouse), and the day-to-day money-management system that keeps
+you solvent while your US credit file is still thin.
+
+
+1. Credit Card Strategy
+What this section is for: Get an Amex via Nova Credit and a Zolve card in week one.
+
+The three lanes
+Every newcomer card fits one of three lanes. Work them in order & don't skip to lane three
+because it feels more familiar.
+
+    Lane                 How it works                                   Who qualifies
+
+    1. Foreign-history   Nova Credit's Credit Passport reads your       Anyone with a healthy CIBIL file
+    transfer             Experian India / CIBIL file and hands it to    (650+); no SSN needed
+                         a participating US issuer at application
+                         time — you get a real, unsecured card on
+                         day one with no US history.
+
+    2. No-SSN neobank    A fintech (Zolve, Current) issues a card       Anyone who can open the
+    card                 against a passport + visa, sometimes tied      linked account; ITIN/SSN not
+                         to a linked deposit; it reports to all three   required
+                         bureaus from month one.
+
+    3. Secured card      You put down a cash deposit that               Anyone with $200–500 to
+                         becomes your limit; the classic bridge         deposit
+                         product, offered by almost every bank and
+                         several immigrant-focused fintechs.
+Card-by-card comparison
+
+    Card                    Lane / mechanism         Deposit / fee     SSN             Notes
+                                                                       needed?
+
+    Amex (Nova Credit       Lane 1 — reads CIBIL     Fee varies by     No              Best first move if
+    newcomer flow)          via Nova Credit at       card product                      your Indian file is
+                            application                                                strong; becomes
+                                                                                       your oldest US
+                                                                                       account
+
+    Zolve Classic           Lane 2 — limit tied to   $0 annual fee     No —            Up to $15k limit;
+                            a linked Zolve                             passport,       ~1% cashback;
+                            checking balance                           ITIN, or SSN    reports to all 3
+                                                                       all work        bureaus; can apply
+                                                                                       from India
+
+    Current Build Card      Lane 2 — debit-style     No credit check   No              Fastest tradeline to
+                            spend on a linked                                          start reporting if
+                            account reported as                                        Zolve/Amex both fall
+                            credit activity                                            through
+
+    Self Visa (via Credit   Lane 2/3 hybrid —        0% intro APR      ITIN accepted   Good second
+    Builder Account)        save into a builder      product                           tradeline once you
+                            account first, card                                        have an ITIN
+                            unlocks after ~$100                                        (spouse case)
+                            saved
+
+    OpenSky Secured         Lane 3 — classic         Refundable        No              No hard inquiry at
+                            secured card             deposit, no                       application — useful
+                                                     annual fee tier                   if you want zero
+                                                     available                         score impact while
+                                                                                       shopping
+
+    Capital One             Lane 3 — secured,        Refundable        ITIN accepted   1.5–5% cash back
+    Quicksilver             converts to unsecured    deposit                           categories; strong
+    Secured                 rewards card later                                         graduation path
+
+    Bank secured card       Lane 3 — tied to your    $200–500          Varies by       Easiest to combine
+    (Chase/BofA/Wells)      primary checking bank    deposit           branch          with your day-one
+                                                                                       branch visit (Article
+                                                                                       7)
+
+
+​
+Sequencing: what to open and when
+   • Week 1: apply to the Amex Nova Credit flow and Zolve at the earliest (both need minimal
+     hard-inquiry on your credit history)
+   • Month 2–3: if both lane 1 and lane 2 were declined, add one secured card (OpenSky if
+     you want zero hard-pull risk, Capital One Quicksilver Secured if you already have an
+     ITIN).
+   • Month 6–9: call the issuer of your oldest secured/newcomer card and ask about
+     graduation to an unsecured product or a credit-limit increase. Do not apply for a new card
+     yet & ask your current issuer first since it's a soft pull.
+   • Month 12+: once you're in the 670–700 band, apply for one everyday-spend card that
+     matches your life. Evaluate Chase Freedom (category cash back) or, if you're renting, Bilt
+     (points on rent with no transaction fee). This is also when a travel card (Amex
+     Gold/Platinum, Chase Sapphire) starts to make sense for the India route.
+
+Utilization and rewards, optimized
+Utilization is the single lever you control most precisely.
+
+   • Multiple-card utilization: bureaus look at both per-card and aggregate utilization. One
+     maxed card among three still hurts the aggregate number even if the other two are empty.
+     Spread spend, or pay a card down mid-cycle.
+   • Rewards come second, structure comes first: in year one, optimize for tradeline count
+     and on-time payment, not cash-back percentage. A 1% card that reports cleanly for 12
+     months is worth more than a 5% card that gets closed or mismanaged.
+
+Traps beyond this list
+   1. Foreign transaction fees on US cards used for India spend: most newcomer and
+      secured cards charge 2.5–3% FX. If you're regularly paying Indian vendors or traveling
+      back, get one no-FX card into the mix.
+   2. Credit monitoring subscriptions you don't need: Experian, Credit Karma, and your
+      card issuers all offer free score tracking.
+   3. Applying for too many cards right before a mortgage or major lease: if you're
+      planning to sign a lease or apply for a car loan in the next 3 months, freeze new
+      applications since each hard inquiry shaves a few points.
+Lesser known facts on credit cards
+    • A declined Nova Credit application doesn't burn the lane. You can often reapply after 3–6
+      months once your US address and phone history look more established; the model
+      weighs more than just the CIBIL pull.
+    • Authorized-user status on a US spouse or friend's old card (a real relationship, not a
+      rented tradeline) is a legitimate way to inherit account age.
+    • Secured-card deposits sometimes take 30–45 days to refund after you close or graduate
+      the account.
+
+
+2. ITIN — Every Case, Not Just the Spouse
+What this section is for:
+
+Who actually needs an ITIN
+ Reason code (Form W-7)      Who this is                              Return required?
+
+ Box (b) — Nonresident       Non-working spouse filing jointly with   Yes — file with your joint
+ alien filing a US return    you; most common corridor case           1040
+
+ Box (b) — NRA with          Founder living abroad who owns a         Yes, unless an exception
+ US-source income            US LLC/C-corp and has US-source          applies
+                             income to report
+
+ Box (h) — Treaty benefit    Founder claiming a                       No return needed — file
+                             reduced-withholding rate under the       with the withholding-agent
+                             US–India tax treaty on royalties,        certification instead
+                             dividends, or certain fees
+
+ Box (a)/(b) — Passive       Someone receiving US-source              Often exception-eligible —
+ income, third-party         passive income (interest, dividends)     no return attached
+ withholding                 already subject to withholding
+An ITIN is a tax-filing number only — it confers no work authorization, no Social Security
+eligibility, and no Earned Income Tax Credit. Don't confuse it with a path to work status.
+
+The CAA route, in detail
+Jargon: CAA (Certified Acceptance Agent) — an IRS-authorized person or firm that verifies
+your original passport in person (or via approved video call for some applicants) and returns it to
+you immediately, submitting a Certificate of Accuracy with your W-7 instead of you mailing the
+IRS your only passport.
+
+    • Find one: the IRS publishes an acceptance-agent list by state/city — search it for the Bay
+      Area, or ask your corridor CPA/immigration attorney; many run CAA services as part of
+      their practice.
+   • What they check: passport validity, visa status, and that the W-7 reason code matches
+     your actual situation — a mismatched reason code is one of the most common rejection
+     triggers.
+   • What they can't skip: the CAA route verifies your documents faster and safer, but the
+     IRS's own processing clock (7–11 weeks, up to ~14 in the January–April crush) doesn't
+     change. A CAA saves you from losing your passport in the mail, not from waiting.
+
+Common rejection reasons
+   1.​ Wrong reason code for the actual situation — e.g., checking the spouse box for a
+       founder with US-source LLC income. Match the code to the real relationship to the
+       return.
+   2.​ Missing or expired supporting documents — the passport must be unexpired and the
+       visa/I-94 must match the dates claimed on the return.
+   3.​ Return attached without the required exception documentation — treaty-benefit and
+       passive-income exceptions each need specific supporting paperwork (the treaty article
+       number, the withholding certification), not just a note.
+   4.​ Illegible or non-notarized foreign-language documents — any non-English
+       supporting document needs a certified translation; the IRS will reject the packet rather
+       than ask for a fix.
+
+
+
+Nobody tells you — ITIN
+   • An ITIN expires if unused on a federal return for 3 consecutive years — if your spouse's
+     ITIN goes dormant (e.g., you file separately for a stretch), you may need to renew it
+     before your next joint return.
+   • Some states' ITIN mortgage-lending programs and a handful of banks treat an ITIN as
+     sufficient for account opening even for the primary founder — worth asking your bank
+     directly rather than assuming SSN is the only path.
+   • A CAA can charge a service fee on top of the (free) IRS filing — shop two or three corridor
+     CPA firms; the fee varies more than the service does.
+
+
+3. Day-to-Day Money Management
+Rebuild your budget mental model
+Converting your Bangalore or Mumbai budget at the exchange rate undersells how different SF
+cost structure actually is. Rent, healthcare, and childcare are the line items that break a
+naively-converted budget.
+   • Build the budget in three buckets: fixed (rent, insurance, subscriptions),
+     variable-necessary (food, transit, utilities), and discretionary. Fixed costs in SF run higher
+     as a share of income than in most Indian cities (plan for 50% fixed in year one)
+   • Re-budget at month 3, not month 1: your first month's spending is distorted by one-time
+     setup costs. Use month 3's actuals as your real baseline.
+
+Bill-pay and subscriptions, set up once
+   • Autopay every recurring bill from day one — rent, utilities, phone, insurance. A missed
+     payment on a thin file does disproportionate damage; autopay removes the risk of
+     forgetting during a jet-lagged first month.
+   • Consolidate to one primary checking account for bill-pay even if you keep a Mercury
+     business account and a Wise account for India transfers — fragmenting bill-pay across
+     three accounts is how a payment gets missed.
+
+Emergency fund: size it for visa risk, not just job-loss risk
+The standard 3–6 months of expenses advice understates founder-on-a-visa risk: a visa denial,
+RFE, or runway problem can compress your timeline to leave the country. Size the fund to cover
+a flight home plus 60 days of US obligations (lease break, final payroll, storage) on top of
+ordinary living costs.
+
+Where idle cash actually sits
+ Account type             Use it for                                Watch for
+
+ Checking                 Bill-pay, Zelle, day-to-day spend         Minimum-balance fees if you
+ (Chase/BofA/Wells)                                                 drop below the threshold
+
+ High-yield savings       Emergency fund and any cash not           Online-only banks settle
+ (Newtek, Marcus, SoFi,   needed within 90 days                     transfers in 1–3 business days
+ Ally)                                                              — don't park money you need
+                                                                    same-day
+
+ Mercury business         Company operating cash                    Fintech, not a chartered bank
+ account                                                            — funds sit at a partner bank
+                                                                    with pass-through FDIC
+                                                                    insurance, not direct FDIC
+                                                                    coverage
+
+ Wise multi-currency      Money in transit between India and the    Not a savings vehicle — hold
+                          US                                        balances only as long as
+                                                                    needed to complete a transfer
+Killing forex fees systematically
+   • Card swipes: Route India-linked spend through a no-FX card
+   • Transfers: Wise and similar specialist rails beat both bank wires and headline "zero fee"
+     services like Remitly on the actual rupee delivered. The margin is in the exchange rate,
+     so always compare the landed amount and not the advertised fee.
+   • The 1% remittance excise tax (effective Jan 1, 2026): applies only to cash-funded
+     transfers (money orders, cashier's checks, cash deposited at a remittance counter).
+     Standard bank-to-bank ACH transfers and digital wallet transfers funded from a US bank
+     account are exempt. If you're sending money through Wise, Remitly, or a bank wire
+     funded from your checking account, this tax does not apply to you.
+
+The app stack
+Job                   Tool                              Why
+
+Budgeting             YNAB or Quicken Simplifi          YNAB's zero-based system suits a first
+                                                        year of re-learning your own cost
+                                                        structure; Simplifi is lighter-weight and
+                                                        syncs high-yield savings goals
+                                                        automatically
+
+Credit monitoring     Experian app, or your issuer's    Free; no need to pay for a monitoring
+                      built-in score tracker            subscription
+
+India transfers       Wise                              Best rupee-delivered rate in most
+                                                        comparisons; keep a Remitly account as
+                                                        a backup rail
+
+Bill tracking         Your primary bank's app + a       Autopay handles execution; you still want
+                      shared note of due dates          a single glance at what's coming due
+
+
+
+
+Lesser known facts on money management
+   • Minimum-balance fees at the big banks ($1500 on Chase & $500 on BofA) are easy to trip
+     in your first few months while cash is moving between accounts. Ask your banker for the
+     specific threshold and set a balance alert, not just a mental note.
+   • A founder's personal and company cash tend to blur in the first few months out of
+     convenience. Keep them separate from day one.
+Banking and setting up finance in US
+Banking & Setting Up US Finances
+
+1. Business Banking: Choosing your
+Stack
+The eligibility reality for a non-resident founder
+All four of the providers below accept US-incorporated companies; none require you personally
+to have an SSN. What actually varies is how they treat a founder who isn't a US resident and
+doesn't yet have US revenue or a lead investor.
+
+   • Mercury: the most open of the four. It accepts most US-incorporated businesses with
+     reasonable KYC and is the default recommendation for a fresh Delaware C-corp with an
+     international founder.
+   • Brex: historically the strictest & has generally required VC backing or a meaningful cash
+     balance (roughly $50k+) and denies most bootstrapped applicants. Capital One
+     completed its acquisition of Brex in April 2026, so expect its onboarding and product mix
+     to keep shifting through the rest of the year.
+   • Rho: positions itself as the strongest Mercury alternative. One platform for banking, cards,
+     bill pay, and treasury, with no minimum balance and no per-user fees.
+   • Relay: Its value is multiple named sub-accounts (operating, payroll reserve, tax reserve)
+     with per-person debit cards and limits, which is genuinely useful once you have more than
+     one person spending company money.
+
+Provider comparison
+ Provider     Best for                 Minimums / fees   FDIC sweep        Watch for
+                                                         network
+
+ Mercury      Fresh Delaware           $0 to open;       Up to $5M via     No AP automation at
+              C-corp, international    Treasury sweep    partner-bank      any tier; $15k
+              founder, first account   needs $250k+      network           monthly
+                                                                           card-repayment cap
+                                                                           on entry tier
+
+ Brex         Funded startups          Effectively       Up to $6M         Post-Capital One
+              already past $50k+       requires VC                         acquisition (closed
+              balance or a lead        backing or a                        April 2026) —
+              investor                 meaningful                          onboarding and
+                                       balance                             product terms are
+                                                                           actively changing
+ Rho           Founders who want      $0 minimums, $0    Up to $75M via       Newer brand
+               banking + bill pay +   per-user           Webster Bank         recognition with some
+               cards + treasury in                                            vendors/investors
+               one place                                                      than Mercury
+
+ Relay         Multiple named         $0 to open         Standard             Not built as a primary
+               sub-accounts once                         single-bank FDIC     banking-plus-cards
+               you have >1 person                        ($250k) unless       platform — pair it with
+               spending                                  upgraded             Mercury/Rho, don't
+                                                                              replace them
+
+
+Structuring more than one account
+A single Mercury checking account is fine for the first six months. Once payroll and taxes are
+real line items, split the operating cash into purpose-built accounts — this is the same discipline
+behind a personal three-bucket budget, just at the company level:
+
+   • Operating: day-to-day spend, the account your card and bill-pay draw from.
+   • Payroll reserve: funded a pay cycle ahead so a bank hiccup never delays a paycheck.
+   • Tax reserve: a running set-aside for payroll tax deposits and your eventual corporate tax
+     bill (sized as a percentage of revenue/payroll)
+Relay's named sub-accounts are the simplest way to do this without opening accounts at
+multiple banks; Mercury and Rho both support multiple accounts under one login as well.
+
+Treasury: making idle cash actually earn something
+Jargon: Sweep — an automated rule that moves any balance above a threshold you set (your
+"liquidity buffer") out of checking and into a higher-yield product, then back when checking dips
+below the buffer.
+
+Once you're holding a meaningful runway in the bank, idle cash sitting in a 0% checking account
+is a real opportunity cost. Mercury Treasury is the most common product founders reach for
+since it generally wants $250k+ in the account before it's worth setting up; the highest
+advertised net yields (mid-single digits) apply at much larger deposit sizes, not the entry tier.
+2. Personal Banking — Bank by Bank
+What each major bank actually requires
+Bank            Typical requirements                   Branch vs. online      Newcomer-friendli
+                                                                              ness
+
+Chase           Passport + a second ID; a US           In-branch only for     Moderate — very
+                address; most branches also expect     non-residents —        branch-dependent
+                a taxpayer ID (SSN or ITIN) though     online applications
+                policy varies                          generally require an
+                                                       SSN
+
+Bank of         Broadest accepted-ID list of the big   In-branch              Generally the most
+America         three, including foreign passports                            newcomer-friendly
+                and consular IDs; US address and a                            of the major banks
+                second document
+
+Wells Fargo     Passport + visa + proof of US          In-branch              Moderate —
+                address; similar profile to Chase                             branch-dependent
+
+HSBC            Passport + visa; existing HSBC India   Some pre-arrival       High if you're
+                customers can sometimes pre-open       setup possible — ask   already an HSBC
+                a US account before landing            before you fly         India customer
+
+Credit unions   Passport + visa + address proof;       Branch or sometimes    Often the most
+(Alliant, Bay   membership eligibility rules vary by   online                 flexible on
+Area CUs)       CU                                                            documentation, least
+                                                                              flexible on
+                                                                              membership
+                                                                              eligibility
+
+
+Some hacks that might help:
+  • Call ahead or book an appointment online: ask specifically for a "new-to-country
+    account opening appointment"
+  • Go on a weekday morning: bankers have more time to escalate an edge case to a
+    manager if your documents are slightly outside the standard checklist.
+  • Bring more than the minimum: passport, visa, I-94 printout, lease or hotel confirmation,
+    and an EIN letter or Mercury account statement (if you have it) as evidence you're a real
+    operating founder.
+  • If declined, try a different branch of the same bank before switching banks entirely:
+     the policy genuinely varies by individual banker, not just by institution.
+Digital-first complements
+A branch account solves Zelle, checks, and in-person banking. It doesn't solve multi-currency
+holding or cheap India transfers — that's a second, digital-first account, not a replacement:
+
+   • Wise (personal): hold and convert USD/INR at a transparent rate; useful the moment
+     you're moving money in both directions regularly, not just once.
+   • Revolut / similar: multi-currency cards useful primarily around India travel (Article 33)
+     rather than as a US daily-banking replacement.
+
+
+3. Moving Money — The Real Mechanics
+
+ACH vs. wire vs. SWIFT, priced
+ Rail               Speed                Stated fee            The real cost
+
+ Domestic ACH       1–3 business days    $0–3                  Cheapest rail for anything that isn't
+                                                               urgent; the default for payroll and
+                                                               routine bill-pay
+
+ Domestic wire      Same day             $25–40 sending        Worth it only for time-sensitive,
+                                                               one-off transfers (closing a lease, an
+                                                               urgent payment)
+
+ International      1–5 business days    $30–75 sending,       The FX markup usually dwarfs the
+ wire (SWIFT)                            plus $10–30 per       fee line — 1–4% below mid-market
+                                         intermediary bank     is typical, which on a $5,000 transfer
+                                                               alone can run $140–300 all-in
+
+ International      1–5 business days    $0–3 plus a smaller   Usually the cheapest way to move a
+ ACH / specialist                        FX margin (as low     meaningful sum India↔US when
+ rail (Wise,                             as ~0.5% for major    timing isn't same-day
+ Airwallex)                              currencies on some
+                                         platforms)
+The rule of thumb: use ACH or a specialist rail for anything that can wait a day or two, and
+reserve wires for the transfers where speed is worth paying 10–20x more.
+
+Lesser known facts on moving money
+   • Intermediary-bank fees on a SWIFT wire are often invisible until the money lands; the
+      recipient sees $30–90 less than you sent, deducted along the correspondent-bank chain.
+   • Contractor-payment platforms that don't handle India-side compliance still leave your
+     company exposed if a contractor's TDS wasn't withheld correctly.
+   • Wire transfers and credit card payments take a couple of days at least. You’ll immediately
+     miss the robust payments infrastructure back home.
+4. Intercompany & Cross-Border Banking
+(India Entity ↔ US Entity)
+Once you've flipped to a Delaware structure with an Indian operating subsidiary underneath, or
+you're funding the US entity from India-side resources, the banking questions stop being about
+which app to use and start being about FEMA/ODI compliance.
+
+Funding the US entity from the Indian side: ODI
+Jargon: ODI (Overseas Direct Investment) is RBI's framework under FEMA governing how an
+Indian company invests in or funds a foreign entity as opposed to LRS, which governs an
+individual resident's outbound remittances.
+
+   • Route: fund transfers from the Indian parent to the US subsidiary must go through an
+     Authorized Dealer (AD) bank and be reported as ODI. You cannot simply wire money
+     from an Indian company account to the US entity without this filing.
+   • Cap: ODI investment is capped at 400% of the Indian parent's net worth under the
+     automatic route; anything beyond that needs RBI approval.
+   • Structure limit: current rules permit round-trip structures (money that in substance
+     returns to India-linked ownership) on the automatic route only if the structure doesn't
+     exceed two layers of subsidiaries — a detail worth checking with counsel before adding a
+     holding-company layer.
+   • 2026 tightening: FEMA (Non-Debt Instruments) Amendment Rules effective May 2026
+     add a PMLA-aligned beneficial-ownership test to the inbound leg of round-trip structures,
+     and require government approval where a beneficial owner holds 10%+ in a
+     land-border-country entity within the structure. If your structure has any layer touching a
+     land-border-country entity, get this checked explicitly.
+
+Intercompany transactions once both entities exist
+Once the US subsidiary and Indian parent (or vice versa, depending on which way the flip runs)
+both exist, every transaction between them — intercompany loans, service fees, royalty
+payments, supply arrangements — is transfer-pricing territory:
+
+   • Arm's-length requirement: Sections 92–92F of India's Income Tax Act require these
+     transactions to be priced as if the two entities were unrelated parties. This isn't optional
+     paperwork — India's Transfer Pricing Officer can and does scrutinize intercompany flows
+     during assessment.
+   • Documentation: keep a contemporaneous transfer-pricing study or at minimum a
+     documented rationale for how intercompany fees/royalties were priced — reconstructing
+     this after the fact during an audit is far harder than building it as you go.
+  • Banking practicality: route intercompany payments through the AD bank relationship set
+    up for ODI reporting, not through a personal or ad hoc business account — the paper trail
+    matters as much as the transaction itself.
+
+Practical setup: which bank talks to which
+  • On the Indian side: your existing relationship bank (ICICI, HDFC, Axis, SBI) typically acts
+    as the AD bank for ODI filings — confirm they have an active AD-I license and a team
+    that handles ODI, not every branch does this routinely.
+  • On the US side: Mercury, Rho, or a similar business account receives the funds; nothing
+    about the US-side account opening changes because the money originated as an
+    ODI-compliant transfer, but keep the ODI filing reference number attached to the
+    incoming-wire records for your own audit trail.
+  • Get both sides' advisors talking to each other: the Indian CA/company secretary
+    handling ODI filings and the US-side accountant handling the receiving entity's books
+    should reconcile the same transaction — this is the single most common place where the
+    two records quietly diverge.
+
+Do this now — intercompany banking
+  • ☐ Confirm your Indian bank's AD-I status and ODI-filing experience before relying
+    on them for the transfer — not every branch handles this routinely
+  • ☐ Get a transfer-pricing rationale documented before the first intercompany
+    invoice, not after — contemporaneous documentation is far stronger than reconstructed
+    documentation
+  • ☐ Check any land-border-country entity in your structure against the 2026
+    beneficial-ownership rule
+  • ☐ Keep the ODI filing reference attached to every related US-side bank record — for
+    reconciliation and any future audit
+
+Lesser known facts on intercompany banking
+  • ODI reporting delays are common when the AD bank's ODI team is unfamiliar with a
+    startup-flip structure specifically (as opposed to a traditional outbound acquisition). Ask
+    directly whether they've processed a founder-flip ODI filing before.
+  • The 400% net worth cap is measured against the Indian parent's net worth, which for an
+    early-stage flip structure may be small. This can meaningfully constrain how much the
+    Indian entity can fund the US side directly, pushing founders toward personal LRS
+    remittances or US-side fundraising instead.
+  • Two separate compliance clocks run in parallel: India's ODI/FEMA reporting and the US
+    entity's own tax and banking KYC and they rarely have the same deadlines. A shared
+    calendar between both advisors avoids the trap of one side quietly falling behind.
+Healthcare & Insurance
+Healthcare & Insurance
+
+
+1. The 60-Day Window: Mechanics,
+Deadlines, and What Happens If You Miss
+It
+What starts the clock
+Jargon: QLE (Qualifying Life Event) is a defined life change: moving to California, marriage,
+birth, loss of other coverage, etc. that opens a Special Enrollment Period (SEP) outside the
+normal Nov–Jan open-enrollment window.
+
+"Permanently moved to/within California" is itself a listed QLE. The clock starts on your move
+date. Covered California's system checks this: if the date you enter is more than 60 days in the
+past, the application flags it and you may not qualify for the Special Enrollment Period at all.
+
+The day-by-day sequence
+ When                What to do                               Why now
+
+ Before you fly      Buy a visitor medical plan; gather       You are uninsured for US-system
+                     proof-of-move documents you'll need      purposes the moment you land, until
+                     later (lease, offer letter)              marketplace coverage starts
+
+ Day 1–3             Create your Covered California           Locks in the correct 60-day window
+                     account and enter your move date         from the start
+                     accurately
+
+ Day 3–14            Upload proof of your prior coverage (a   Missing or late documentation is the
+                     letter or documentation showing you      most common reason an
+                     had qualifying coverage for at least     otherwise-valid SEP application stalls
+                     one day in the 60 days before your
+                     move) and your move documentation
+
+ Day 14–30           Select a metal-tier plan and confirm     Coverage starts the 1st of the month
+                     your declared income                     after you enroll & enrolling by day 30
+                                                              gets you covered well inside the
+                                                              bridge-plan period
+
+ Day 60              Hard deadline                            After this, the SEP application will not
+                                                              process (the fastest path back in is the
+                                                              next scenario)
+If you miss it
+Missing the 60-day window doesn't mean no coverage until November. It means no Covered
+California marketplace plan until the next open enrollment (typically Nov–Jan for a Jan 1 start),
+unless another QLE happens first (a job that offers a group plan, marriage, a child). Your
+practical options in the gap:
+
+   • Extend the bridge plan: Insubuy/VisitorsCoverage-style visitor medical plans are
+     month-to-month and can be renewed past the original gap if needed (expensive relative
+     to a subsidized marketplace plan, but real coverage)
+   • Short-term medical insurance: US-licensed short-term plans, sold for up to 12 months
+     in California with restrictions, cover unexpected illness/injury but exclude pre-existing
+     conditions and preventive care, and are not required to comply with the No Surprises Act.
+   • Push for the group plan: if your startup is raising or hiring, a group health plan through
+     the company sidesteps the individual-market SEP question entirely and typically has no
+     such 60-day trap for new hires (group plans have their own, usually more forgiving,
+     enrollment rules).
+
+Do this now: the 60-day window
+   • ☐ Enter your move date correctly the first time: the system calculates your 60 days
+     from what you enter, not from when you notice the deadline
+   • ☐ Gather proof-of-prior-coverage documentation before you need it: a letter or
+     record showing coverage in the 60 days before your move
+   • ☐ Enroll by day 30: coverage starts the 1st of next month regardless of when in the
+     window you enroll, so earlier enrollment shortens your bridge-plan period
+   • ☐ If you're going to miss it, start a short-term or extended bridge plan before day
+     60, not after (you want zero-day gaps between coverage types)
+
+The 60-day window constraints
+   • The proof-of-prior-coverage requirement trips up founders who assume their Indian
+     insurance (or none at all) is irrelevant to a US move. Bring whatever documentation you
+     have (even a bridge-plan policy document from the weeks right after landing)
+   • A dependent spouse or child added mid-window has their own clock tied to the same
+     QLE: Don't assume they're automatically covered by your enrollment; confirm each family
+     member is explicitly added to the application.
+2. Plans Without an Employer
+
+The 2026 subsidy cliff, in plain terms
+Two changes make 2026 a materially worse year to be uninsured than 2025 was:
+
+    • Enhanced federal subsidies expired Dec 31, 2025. Statewide average post-subsidy
+      premiums jumped from roughly $151/month (2025) to a projected ~$261/month (2026).
+    • The subsidy cliff is now a cliff, not a slope: federal premium tax credits are available
+      only up to 400% of the Federal Poverty Level (FPL); projected at roughly $63,000/year for
+      a single person in 2026. Earn $1 over that line and you lose 100% of the federal subsidy
+      at once, not gradually. A real-world example from 2026 coverage: a person's premium
+      roughly doubles, from about $554/month to over $1,000/month, the moment they cross
+      the line.
+    • California's own backstop: the state allocated its own subsidy program, but it targets
+      households up to 165% FPL; it doesn't help the 250–450% FPL range where many
+      funded founders paying themselves a modest but real salary actually sit.
+The practical implication from Article 8 still holds and matters more this year: your declared
+founder salary is a healthcare-cost decision, not just a payroll decision. Model the premium at
+your actual planned income before you set salary, ideally with your accountant in the room.
+
+Covered California: the metal tiers
+ Tier            Plan pays / you pay        Best for                     2026 reality check
+
+ Bronze          ~60% / ~40%                Healthy, rarely-use-care,    Lowest premium, highest
+                                            want catastrophic            deductible; a bad fit if you
+                                            protection cheaply           expect any regular doctor
+                                                                         visits in year one
+
+ Silver          ~70% / ~30%                Most founders — the          At 30, in SF, full-price
+                                            reference tier for subsidy   budget $400–600+/month
+                                            calculations                 without subsidy; verify your
+                                                                         exact quote by zip code on
+                                                                         coveredca.com
+
+ Gold            ~80% / ~20%                Expect regular care, want    Meaningfully higher
+                                            predictable copays over a    premium than Silver; worth
+                                            low deductible               it mainly if you have an
+                                                                         ongoing condition
+ Platinum           ~90% / ~10%                  Heavy anticipated usage,        Highest premium of the
+                                                 family with young kids          four; check whether it's
+                                                                                 actually available in your
+                                                                                 zip code (not all insurers
+                                                                                 offer it everywhere)
+
+
+The bridge plan menu
+Marketplace coverage starts the 1st of next month; you need something from wheels-down until
+then. These are visitor/new-immigrant plans (not marketplace plans) that don't need a QLE and
+can usually be bought from India before you fly.
+
+ Provider              What it covers                    Rough cost (2026)            Watch for
+
+ Insubuy               Aggregates plans from ~a          From ~$45/month; up to       Compare the specific
+                       dozen insurers; broad choice      $500k coverage on            underlying insurer, not
+                       of coverage levels                higher tiers                 just the Insubuy brand
+                                                                                      — coverage varies by
+                                                                                      which plan you pick
+
+ VisitorsCoverage      One of the few bridge             Roughly                      Pre-existing coverage
+ (Elite)               products offering limited         $20–170/month                has real restrictions —
+                       pre-existing-condition            depending on age/tier        read the acute-onset
+                       coverage (acute-onset, with a                                  definition before
+                       stability-period requirement)                                  assuming it applies to
+                                                                                      you
+
+ Atlas America         Another of the rare               Comparable to                Same caveat — verify
+                       pre-existing-condition-inclusiv   VisitorsCoverage Elite       the specific condition
+                       e options                                                      and stability-period
+                                                                                      rules
+None of these bridge products cover routine/preventive care, and none are required to follow
+the No Surprises Act's billing protections (Section 3) — they exist to stop a catastrophic bill from
+bankrupting you in the gap, not to be your ongoing insurance.
+
+Do this now: For plans without an employer
+   • ☐ Model your founder salary against the 400% FPL line before finalizing payroll
+   • ☐ Get an exact Covered California quote for your zip code before assuming the
+     Article 8 rough numbers apply
+   • ☐ Buy the bridge plan before you fly (it's cheaper)
+   • ☐ If pre-existing conditions matter to you, compare VisitorsCoverage Elite and
+     Atlas America specifically
+3. What an ER Visit Actually Costs (and
+How Not to Overpay)
+
+The real numbers
+ Setting               Without insurance                      With insurance
+
+ Telehealth (Sesame,   ~$34–37 flat, no insurance needed      Often similar — most people pay cash
+ similar)                                                     rather than run it through insurance
+
+
+ Urgent care           ~$120–250 for simple/moderate care;    Typically $20–75 copay
+                       $250–530+ with X-rays, labs, or
+                       procedures
+
+ Emergency room        $800–3,000+; can exceed $2,863 with    $150–700 typical cost-share; average
+                       imaging or procedures                  ER copay runs around $455
+
+The gap between urgent care and the ER for the same non-emergency complaint averages
+around $1,100!
+
+The triage rule, restated
+   • Telehealth first, always, when it's not urgent: a same-day video visit ($34–37, no
+     insurance required) is enough for most infections, rashes, prescription refills, and "is this
+     serious" questions — and is faster than a new-patient PCP slot in your first months.
+   • Urgent care for anything that needs in-person hands: stitches, sprains, fevers that
+     need a look, suspected infections, X-ray-needing injuries.
+   • ER only for: chest pain, difficulty breathing, major trauma, stroke symptoms, severe
+     allergic reaction. If you're unsure whether something is ER-level, call the telehealth line
+     first unless it's obviously life-threatening. Most triage calls are free or near-free and can
+     direct you correctly in minutes.
+
+Billing protections if you do end up in the ER
+The No Surprises Act (federal law) directly protects you in the emergency scenario:
+
+   • Emergency care is protected regardless of network: if you end up at an out-of-network
+     ER, you cannot legally be charged more than your plan's in-network cost-sharing amount
+     for most emergency services. This applies even without prior authorization, because
+     emergencies don't wait for authorization.
+  • What's NOT protected: ground ambulance rides , any out-of-network care you knowingly
+    and willingly consent to, and non-emergency care you choose to get at an out-of-network
+    facility.
+  • Which plans this applies to: most private insurance, including Covered California
+    marketplace plans and employer plans. It generally does NOT apply to short-term medical
+    plans or bridge/visitor insurance.
+  • If you get billed anyway: you can dispute it by calling the CMS No Surprises Help Desk
+     or your state insurance department; incorrectly balanced-billed amounts get corrected
+     more often than founders expect once formally disputed.
+
+Do this now: ER and billing
+  • ☐ Save a telehealth app (Sesame or similar) on your phone before you need it
+  • ☐ Know your plan's in-network ER and urgent care options before an emergency
+  • ☐ If you get an ER bill that looks like balance billing, dispute it
+  • ☐ Keep your insurance card (physical or photo) on you at all times
+
+Nobody tells you: ER and billing
+  • Hospitals are required to have publicly posted price lists ("price transparency" files) but
+    they're often difficult to actually parse; a faster path is calling the hospital's billing
+    department directly and asking for the specific CPT-code price for your situation before a
+    non-emergency procedure.
+  • An ER bill arriving weeks later with a much larger number than expected is common even
+    when nothing went wrong; hospitals bill in stages (facility fee, physician fee, lab fee arrive
+    separately). Don't panic or pay immediately; wait to see the full set of bills and check them
+    against your insurer's Explanation of Benefits before paying anything.
+4. The Indian Meds Crossover: Getting It
+Right at the Border and After
+Common Indian medications, mapped to the US
+ Indian brand         Active ingredient         US equivalent              US status
+
+ Crocin, Dolo 650     Paracetamol               Tylenol                    OTC & no prescription
+                      (acetaminophen)                                      needed
+
+ Combiflam            Ibuprofen + paracetamol   Advil/Motrin (ibuprofen)   OTC & no prescription
+                                                + Tylenol                  needed
+                                                (acetaminophen), taken
+                                                separately; the exact
+                                                combo product is not
+                                                standard in the US
+
+ Glycomet,            Metformin                 Generic metformin;         Rx — needs a US
+ Glyciphage                                     brand versions include     prescription; bring your
+                                                Glucophage, Fortamet       Indian prescription to
+                                                                           your first PCP visit
+
+ Azithral, Azee       Azithromycin              Zithromax (Z-Pak)          Rx-only in the US — this
+                                                                           is the single most
+                                                                           common surprise for
+                                                                           Indian newcomers used
+                                                                           to OTC antibiotics
+
+ Corex, other         Codeine                   Controlled substance in    Rx-only, tightly
+ codeine-based                                  the US                     restricted; do not attempt
+ cough syrups                                                              to bring bulk quantities
+                                                                           (see Article 23's 50-unit
+                                                                           cap)
+The pattern: OTC-in-India generally stays OTC in the US under a different brand name.
+Rx-in-India (most antibiotics, many chronic-condition medications) becomes strictly Rx-only in
+the US since India's looser real-world enforcement of prescription rules does not carry over.
+
+Bridging the refill gap before your PCP appointment
+New-patient PCP waits in SF run 4–8 weeks. If a chronic prescription (metformin, blood
+pressure medication, thyroid medication) is going to run out before that appointment, you have
+two practical bridges:
+
+   • Telehealth for a bridge prescription: same-day telehealth services can often write a
+     short-term refill for common chronic medications after reviewing your Indian prescription
+     and medical history — this is exactly the same-day, no-PCP-needed value proposition as
+     the ER-avoidance case in Section 3, applied to prescriptions instead of urgent symptoms.
+   • Bring more supply than you think you need: ~90-day ceiling is the practical import
+     limit. Use the full allowance for anything chronic (telehealth bridge is a backup)
+What doesn't work: mailing more medication from India after you've landed. Personal-use import
+rules apply at the point of entry with you physically present. A package mailed later is a
+commercial import and gets treated far more strictly by customs.
+
+Do this now: Indian meds crossover
+   • ☐ Get an English prescription/doctor's letter for every chronic medication before
+     you fly
+   • ☐ Identify which of your regular meds are Rx-only in the US before you land
+   • ☐ Book the first PCP appointment in week one, not when supply runs low
+   • ☐ Save a telehealth app as the bridge for a refill gap
+Sending Money Home & NRI Banking
+Sending Money Home & NRI Banking
+
+
+1. NRE vs NRO — Which Account for What
+The core distinction
+                             NRE                                  NRO
+
+ Source of funds             Foreign income (US salary, founder   Indian-source income (rent,
+                             draw) remitted into India            dividends, your old resident balance)
+
+ Interest taxation (India)   Fully tax-exempt in India            Taxable at 30.9% TDS, reducible
+                                                                  under the India–US DTAA
+
+ Repatriation                Principal and interest fully         Capped at USD 1 million per financial
+                             repatriable, no limit                year per PAN, after tax
+
+ Repatriation paperwork      Straightforward bank transfer        Requires Form 15CA (Form 145 from
+                                                                  April 2026) and, above ₹5 lakh/year,
+                                                                  a CA-certified Form 15CB (Form
+                                                                  146)
+
+
+The conversion mechanics, in order
+    1. Your existing resident savings account can only convert to NRO (you cannot convert a
+       resident account into NRE)
+    2. Open a fresh NRE account if you plan to remit US income into India and want it tax-free
+       and freely repatriable.
+    3. Most major banks (ICICI, HDFC, SBI, Axis) accept the conversion request with a visa
+       copy, passport, and overseas address proof (some offer it fully online)
+    4. Redirect standing instructions (rent collection, dividend payout, any SIP) to the NRO
+       account once it's active; this is the step people forget, leaving Indian-source income still
+       landing in a technically-closed resident account.
+
+The NRO repatriation paperwork, worked
+Moving money out of an NRO account (say, to fund your US life or pay yourself back) isn't a
+simple wire:
+
+    • Under ₹5 lakh in the financial year: file Form 15CA Part A yourself — no CA certificate
+      needed.
+    • Above ₹5 lakh in the financial year: get Form 15CB from a Chartered Accountant
+      certifying taxes are settled, then file Form 15CA Part C.
+    • Form renaming, not a substantive change: for remittances made on or after April 1,
+      2026, Form 15CA is renamed Form 145 and Form 15CB becomes Form 146 under the
+        new Income-tax Act, 2025; the ₹5 lakh threshold and CA-certification requirement carry
+        over essentially unchanged. Remittances completed before March 31, 2026 still use the
+        old form names.
+
+Do this now — NRE/NRO
+   • ☐ Convert your resident savings account to NRO immediately (holding a resident
+     account as an NRI is a FEMA violation)
+   • ☐ Open an NRE account before your first US-income remittance to India
+   • ☐ Redirect every standing instruction (rent, SIPs, dividends) to the NRO account
+   • ☐ Line up a CA before you need Form 15CB/146
+
+
+2. Remittances — Wise vs Bank Rails,
+Priced
+US → India: Wise vs. Remitly vs. bank wire
+ Method            Cost structure               Where it wins
+
+ Wise              Mid-market exchange rate,    Best for transfers above roughly $3,000, and for
+                   fee shown separately, 0%     anyone sending regularly who wants a transparent,
+                   markup on larger amounts     repeatable rate
+
+ Remitly           Markup of 0.5–3.0% built     Slightly cheaper at smaller amounts (~$1,000) and for
+                   into the rate depending on   first-time-user promotions; the crossover point is
+                   currency pair, offset by     roughly $1,000–3,000
+                   lower stated fees
+
+ Bank wire         $25–75 sending fee, plus     Rarely the cheapest choice; use only when the bank
+                   intermediary bank fees of    is the only rail available or the receiving side requires
+                   $10–30, plus a 2–4% FX       a wire specifically
+                   margin
+A concrete illustration: on a $5,000 transfer at a mid-2026 rate near ₹95/USD, Wise nets
+roughly ₹4,65,500 landed; Remitly nets roughly ₹4,68,350–4,73,100 depending on that day's
+spread. At $1,000, Remitly typically delivers a couple hundred more rupees than Wise.
+India → US: the LRS, priced
+LRS (Liberalised Remittance Scheme) is RBI's rule letting each Indian resident individual send
+up to $250,000 per financial year abroad for permitted purposes.
+
+   • The cap: $250,000 per financial year, per resident individual: relevant when parents are
+     funding you, or you're moving your own resident-held money before converting to NRI
+     status.
+   • TCS (Tax Collected at Source): kicks in above ₹10 lakh/year in remittances. As of the
+     2026 Budget: education and medical remittances are taxed at a reduced 2% (down from
+     5%); overseas tour packages at 2% with no minimum threshold; everything else
+     (including funding a child's living costs or a startup) still attracts 20% TCS.
+   • TCS is not a net cost: it's collected upfront and claimable back through the sender's
+     Indian income tax return (ITR) but it's still a real cash-flow hit in the year it's collected,
+     since the credit doesn't arrive until the return is processed.
+
+Do this now
+   • ☐ Run both a Wise and a Remitly quote for anything over $2,000
+   • ☐ Confirm your transfer is bank-funded, not cash-funded, before assuming the 1%
+     excise tax applies
+   • ☐ If parents are funding you via LRS above ₹10 lakh/year, plan for the TCS
+     cash-flow hit
+3. Supporting Family — The Practical
+Mechanics
+Direction 1: you supporting parents in India
+   • India side: money you send to parents is a gift from a child to a "relative" under Indian tax
+      law is tax-free for them, in any amount, with no reporting requirement on the Indian side.
+   • US side (Form 709): gifts above the annual exclusion ($19,000 per recipient in 2026)
+     require you to file IRS Form 709.
+   • Married founders: you and your spouse can jointly give up to $38,000 per recipient per
+     year by electing to "gift-split" on Form 709; useful if you're supporting both parents or
+     sending a larger one-time amount.
+
+Direction 2: parents (or other relatives) funding you
+   • Not taxable income: a genuine gift from a foreign parent is not included in your US gross
+     income
+   • Form 3520 disclosure threshold: you must report foreign gifts on Form 3520 once the
+     aggregate from all foreign persons tied to one source exceeds $100,000 in the tax year:
+     both parents' gifts count together toward this threshold, and once you're over it, every
+     individual gift above $5,000 must be separately itemized.
+   • Filing logistics: Form 3520 must be mailed separately to the IRS's Ogden, Utah office —
+     it cannot be e-filed with your regular return, even though the deadline (April 15,
+     extendable to October 15) matches your 1040.
+   • On the India side: parents funding you from India route through LRS (Section 2) and face
+     TCS above ₹10 lakh/year
+
+
+4. Other NRI Banking Loose Ends
+FCNR deposits: parking foreign currency in India
+FCNR (Foreign Currency Non-Resident) deposit is a fixed deposit held in a foreign currency
+(USD, GBP, EUR, and others) at an Indian bank. The principal and interest stay in that foreign
+currency, so you carry zero rupee exchange-rate risk on the deposit itself.
+
+   • Rates: USD FCNR rates commonly run 4.5–5.2% depending on bank and tenure as of
+     2026, with some banks (RBL, YES Bank) advertising up to ~4.85% on 1–2 year USD
+     deposits can meaningfully competitive with US savings rates and without INR conversion
+     risk.
+   • India tax treatment: interest is completely exempt from Indian income tax for NRIs.
+  • US tax treatment: that interest is still part of your US taxable income once you're a US
+    tax resident
+  • Use case: a reasonable place to hold USD you don't need in the US near-term but want
+    to keep accessible for India-side plans (family support, a future property purchase)
+    without INR conversion risk in the meantime.
+
+PPF: continue, don't ignore
+  • Notify within a month: tell your PPF bank or post office of your NRI status; the account
+    itself continues to maturity but cannot be renewed after that.
+  • Calendar the maturity date: an NRI cannot open a new PPF account or extend an
+    existing one past maturity, so plan for that account's closure rather than assuming it
+    continues indefinitely.
+
+Mutual funds, demat, and the PFIC problem
+  • Update KYC to NRI status on every mutual fund folio and your demat/trading account —
+    this is a compliance requirement, not optional paperwork.
+  • The PFIC trap: Indian mutual funds are taxed punitively under US PFIC (Passive Foreign
+    Investment Company) rules once you're a US tax resident, often at top rates plus interest
+    charges on deemed gains. Most NRIs exit Indian mutual funds before their first full US tax
+    year, rather than continuing to invest in them.
+  • Get a PFIC-aware CA before adding new money to any Indian mutual fund. This is one
+    of the most expensive mistakes in the whole corridor if it's discovered after the fact rather
+    than planned around in advance.
+
+Do this now — NRI banking
+  • ☐ Compare FCNR rates across 2–3 banks before parking a large USD sum
+  • ☐ Notify your PPF provider of NRI status within a month
+  • ☐ Update KYC to NRI on every mutual fund and demat account
+  • ☐ Talk to a PFIC-aware CA before adding money to any Indian mutual fund
+
